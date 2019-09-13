@@ -1,0 +1,58 @@
+body{
+  background-color:#679267;
+}
+h1{
+  font-family:italic;
+  font-weight:bold;
+  color:black;
+  margin:30px;
+}
+.result 
+  {
+  width:70%;
+  padding:20px;
+  margin-top: 20px;
+  border: 2px solid cyan;
+  border-radius:30px;
+  background:gray;
+  display: inline-block;
+    
+
+}
+.unavail{
+  background-color:#FFC324;
+  
+}
+.avail{
+  background-color:green;
+   
+}
+.off-cont{
+  background-color:#EC0304;
+}
+.unavail, .avail, .off-cont {
+  margin:20px;
+  padding:10px;
+  width:75%;
+  border:2px solid #0018A8;
+  border-radius:40px;
+  display: inline-block;
+  align-content:center;
+  color:black;
+}
+h5{
+  font-size:20px;
+  color:white;
+  font-weight:bold;
+  font-family:fantacy;
+}
+p{
+  color:#000;
+  font-weight:bold;
+}
+
+.logo{
+  width:75px;
+  border-radius: 50%;
+  float:left;
+}
